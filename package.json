@@ -1,0 +1,25 @@
+{
+  "name": "japananh",
+  "version": "1.0.0",
+  "description": "<!-- **japananh/japananh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/japananh/japananh.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "japananh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/japananh/japananh/issues"
+  },
+  "homepage": "https://github.com/japananh/japananh#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
