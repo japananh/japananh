@@ -6,7 +6,7 @@ const getQuote = async () => {
     const { data } = await axios.get('https://type.fit/api/quotes')
     if (!data.length) return {}
 
-    const index = Math.floor(Math.random(data.length - 1))
+    const index = Math.floor(Math.random() * (data.length - 1))
     const quote = data[index].text
     const author = data[index].author
     
