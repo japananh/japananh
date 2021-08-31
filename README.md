@@ -1,3 +1,3 @@
-_**Genius is one percent inspiration and ninety-nine percent perspiration.**_
+_**Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.**_
 
-Thomas Edison
+Alan Cohen
