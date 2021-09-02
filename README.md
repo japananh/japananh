@@ -1,3 +1,3 @@
-_**We must not say every mistake is a foolish one.**_
+_**You may only be someone in the world, but to someone else, you may be the world.**_
 
-Cicero
+null
