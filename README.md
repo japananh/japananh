@@ -1,3 +1,3 @@
-_**Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.**_
+_**He is able who thinks he is able.**_
 
-Lao Tzu
+Buddha
