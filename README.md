@@ -1,3 +1,3 @@
-_**He is able who thinks he is able.**_
+_**What you see depends on what you're looking for.**_
 
-Buddha
+null
