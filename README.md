@@ -1,3 +1,3 @@
-_**What you see depends on what you're looking for.**_
+_**All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.**_
 
-null
+Kathleen Norris
