@@ -1,3 +1,3 @@
-_**All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.**_
+_**No garden is without its weeds.**_
 
-Kathleen Norris
+Thomas Fuller
