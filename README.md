@@ -1,3 +1,3 @@
-_**The cosmos is neither moral or immoral; only people are. He who would move the world must first move himself.**_
+_**I am not afraid of tomorrow, for I have seen yesterday and I love today.**_
 
-Edward Ericson
+William White
