@@ -1,3 +1,3 @@
-_**I am not afraid of tomorrow, for I have seen yesterday and I love today.**_
+_**I am always doing that which I cannot do, in order that I may learn how to do it.**_
 
-William White
+Pablo Picasso
