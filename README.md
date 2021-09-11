@@ -1,3 +1,3 @@
-_**I am always doing that which I cannot do, in order that I may learn how to do it.**_
+_**What is not started today is never finished tomorrow.**_
 
-Pablo Picasso
+Goethe
