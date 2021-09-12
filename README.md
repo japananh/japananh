@@ -1,3 +1,3 @@
-_**What is not started today is never finished tomorrow.**_
+_**A garden is always a series of losses set against a few triumphs, like life itself.**_
 
-Goethe
+May Sarton
