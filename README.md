@@ -1,3 +1,3 @@
-_**A garden is always a series of losses set against a few triumphs, like life itself.**_
+_**Hope arouses, as nothing else can arouse, a passion for the possible.**_
 
-May Sarton
+William Sloane Coffin
