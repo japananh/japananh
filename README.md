@@ -1,3 +1,3 @@
-_**Hope arouses, as nothing else can arouse, a passion for the possible.**_
+_**He who lives in harmony with himself lives in harmony with the world.**_
 
-William Sloane Coffin
+Marcus Aurelius
