@@ -1,3 +1,3 @@
-_**He who lives in harmony with himself lives in harmony with the world.**_
+_**Ideas are the beginning points of all fortunes.**_
 
-Marcus Aurelius
+Napoleon Hill
