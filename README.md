@@ -1,3 +1,3 @@
-_**Ideas are the beginning points of all fortunes.**_
+_**The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.**_
 
-Napoleon Hill
+Eckhart Tolle
