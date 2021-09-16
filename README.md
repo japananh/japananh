@@ -1,9 +1,7 @@
-_**If one way be better than another, that you may be sure is natures way.**_
+_**The person born with a talent they are meant to use will find their greatest happiness in using it.**_
 
->Aristotle
-
-
+>Johann Wolfgang von Goethe
 
 
 
- p/s. Please think of me as smart working instead of hark working <img wisth="24" height="24" align="center" src="emoji/1f63d.png" alt="emoji of the day">
+ <sub>p/s. Please think of me as smart working instead of hark working</sub> <img wisth="24" height="24" align="center" src="emoji/1f91f-1f3ff.png" alt="emoji of the day">

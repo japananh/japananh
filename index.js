@@ -34,7 +34,7 @@ const generate = async () => {
 
   if (!quote && !author) return
 
-  fs.writeFileSync('README.md', `_**${quote}**_\n\n>${author}\n\n\n\n\n\n p/s. <sub>Please think of me as smart working instead of hark working</sub> <img wisth="24" height="24" align="center" src="emoji/${emoji}.png" alt="emoji of the day">`)
+  fs.writeFileSync('README.md', `_**${quote}**_\n\n>${author}\n\n\n\n <sub>p/s. Please think of me as smart working instead of hark working</sub> <img wisth="24" height="24" align="center" src="emoji/${emoji}.png" alt="emoji of the day">`)
 }
 
 generate()
