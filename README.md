@@ -1,10 +1,9 @@
-_**I can't imagine a person becoming a success who doesn't give this game of life everything hes got.**_
+_**If one way be better than another, that you may be sure is natures way.**_
 
->Walter Cronkite
-
-
+>Aristotle
 
 
 
- p/s. Please think of me as smart working instead of hark working <img wisth="24" height="24" align="center" src="emoji/1f3fe.png" alt="emoji of the day">
-`2021/8/16`
+
+
+ p/s. Please think of me as smart working instead of hark working <img wisth="24" height="24" align="center" src="emoji/1f63d.png" alt="emoji of the day">
