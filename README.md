@@ -1,3 +1,3 @@
-_**The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.**_
+_**The most formidable weapon against errors of every kind is reason.**_
 
-Eckhart Tolle
+Thomas Paine
