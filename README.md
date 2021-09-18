@@ -1,3 +1,3 @@
-_**The most formidable weapon against errors of every kind is reason.**_
+_**Life is movement-we breathe, we eat, we walk, we move!**_
 
-Thomas Paine
+John Pierrakos
