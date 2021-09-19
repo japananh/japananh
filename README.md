@@ -1,3 +1,3 @@
-_**Life is movement-we breathe, we eat, we walk, we move!**_
+_**If you aren't going all the way, why go at all?**_
 
-John Pierrakos
+Joe Namath
