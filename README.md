@@ -1,3 +1,3 @@
-_**If you aren't going all the way, why go at all?**_
+_**Nothing is at last sacred but the integrity of your own mind.**_
 
-Joe Namath
+Ralph Emerson
