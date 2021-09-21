@@ -1,3 +1,3 @@
-_**Nothing is at last sacred but the integrity of your own mind.**_
+_**What is not started today is never finished tomorrow.**_
 
-Ralph Emerson
+Goethe
