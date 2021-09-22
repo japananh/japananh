@@ -1,3 +1,3 @@
-_**What is not started today is never finished tomorrow.**_
+_**All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.**_
 
-Goethe
+Kathleen Norris
