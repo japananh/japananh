@@ -1,3 +1,3 @@
-_**All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.**_
+_**The power of intuitive understanding will protect you from harm until the end of your days.**_
 
-Kathleen Norris
+Laozi
