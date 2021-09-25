@@ -1,3 +1,3 @@
-_**Time is the most valuable thing a man can spend.**_
+_**If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own.**_
 
-Theophrastus
+Johann Wolfgang von Goethe
