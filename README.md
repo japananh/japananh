@@ -1,3 +1,3 @@
-_**If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own.**_
+_**Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.**_
 
-Johann Wolfgang von Goethe
+William Arthur Ward
