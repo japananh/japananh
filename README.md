@@ -1,3 +1,3 @@
-_**Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.**_
+_**No one has ever become poor by giving.**_
 
-William Arthur Ward
+Anne Frank
