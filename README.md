@@ -1,3 +1,3 @@
-_**No one has ever become poor by giving.**_
+_**Put your future in good hands your own.**_
 
-Anne Frank
+null
