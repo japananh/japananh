@@ -1,3 +1,3 @@
-_**Put your future in good hands your own.**_
+_**Faith in oneself is the best and safest course.**_
 
-null
+Michelangelo
