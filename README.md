@@ -1,3 +1,3 @@
-_**There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.**_
+_**People seldom notice old clothes if you wear a big smile.**_
 
-Alfred Korzybski
+Lee Mildon
