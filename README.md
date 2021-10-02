@@ -1,3 +1,3 @@
-_**People seldom notice old clothes if you wear a big smile.**_
+_**Your attitude, not your aptitude, will determine your altitude.**_
 
-Lee Mildon
+Zig Ziglar
