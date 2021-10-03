@@ -1,3 +1,3 @@
-_**Your attitude, not your aptitude, will determine your altitude.**_
+_**Arriving at one point is the starting point to another.**_
 
-Zig Ziglar
+John Dewey
