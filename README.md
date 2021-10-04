@@ -1,3 +1,3 @@
-_**Arriving at one point is the starting point to another.**_
+_**Chaos is inherent in all compounded things. Strive on with diligence.**_
 
-John Dewey
+Buddha
