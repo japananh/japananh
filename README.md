@@ -1,3 +1,3 @@
-_**Chaos is inherent in all compounded things. Strive on with diligence.**_
+_**Kind words will unlock an iron door.**_
 
-Buddha
+Turkish proverb
