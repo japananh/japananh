@@ -1,3 +1,3 @@
-_**Kind words will unlock an iron door.**_
+_**Everything is perfect in the universe even your desire to improve it.**_
 
-Turkish proverb
+Wayne Dyer
