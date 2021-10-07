@@ -1,3 +1,3 @@
-_**Everything is perfect in the universe even your desire to improve it.**_
+_**A man is not old as long as he is seeking something.**_
 
-Wayne Dyer
+Edmond Rostand
