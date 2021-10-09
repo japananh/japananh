@@ -1,3 +1,3 @@
-_**The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.**_
+_**If you don't know where you are going, you will probably end up somewhere else.**_
 
-Helen Keller
+Lawrence Peter
