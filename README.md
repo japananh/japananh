@@ -1,3 +1,3 @@
-_**If you don't know where you are going, you will probably end up somewhere else.**_
+_**Count your joys instead of your woes. Count your friends instead of your foes.**_
 
-Lawrence Peter
+null
