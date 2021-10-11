@@ -1,3 +1,3 @@
-_**Count your joys instead of your woes. Count your friends instead of your foes.**_
+_**A goal without a plan is just a wish.**_
 
-null
+Larry Elder
