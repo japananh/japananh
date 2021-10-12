@@ -1,3 +1,3 @@
-_**A goal without a plan is just a wish.**_
+_**The world is round and the place which may seem like the end may also be the beginning.**_
 
-Larry Elder
+Ivy Baker Priest
