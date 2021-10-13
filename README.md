@@ -1,3 +1,3 @@
-_**The world is round and the place which may seem like the end may also be the beginning.**_
+_**It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.**_
 
-Ivy Baker Priest
+Pema Chodron
