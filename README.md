@@ -1,3 +1,3 @@
-_**Fortune befriends the bold.**_
+_**You can never cross the ocean unless you have the courage to lose sight of the shore.**_
 
-John Dryden
+null
