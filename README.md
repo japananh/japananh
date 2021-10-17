@@ -1,3 +1,3 @@
-_**Your big opportunity may be right where you are now.**_
+_**Let us always meet each other with smile, for the smile is the beginning of love.**_
 
-Napoleon Hill
+Mother Teresa
