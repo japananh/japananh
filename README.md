@@ -1,3 +1,3 @@
-_**Let us always meet each other with smile, for the smile is the beginning of love.**_
+_**When you come to the end of your rope, tie a knot and hang on.**_
 
-Mother Teresa
+Franklin Roosevelt
