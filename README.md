@@ -1,3 +1,3 @@
-_**When you come to the end of your rope, tie a knot and hang on.**_
+_**Open minds lead to open doors.**_
 
-Franklin Roosevelt
+null
