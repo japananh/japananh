@@ -1,3 +1,3 @@
-_**Open minds lead to open doors.**_
+_**To enjoy life, we must touch much of it lightly.**_
 
-null
+Voltaire
