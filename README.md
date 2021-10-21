@@ -1,3 +1,3 @@
-_**To enjoy life, we must touch much of it lightly.**_
+_**More often than not, anger is actually an indication of weakness rather than of strength.**_
 
-Voltaire
+Dalai Lama
