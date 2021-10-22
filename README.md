@@ -1,3 +1,3 @@
-_**More often than not, anger is actually an indication of weakness rather than of strength.**_
+_**Always do your best. What you plant now, you will harvest later.**_
 
-Dalai Lama
+Og Mandino
