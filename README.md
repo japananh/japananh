@@ -1,3 +1,3 @@
-_**To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.**_
+_**Doing what you love is the cornerstone of having abundance in your life.**_
 
-Napoleon Bonaparte
+Wayne Dyer
