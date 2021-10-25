@@ -1,3 +1,3 @@
-_**Doing what you love is the cornerstone of having abundance in your life.**_
+_**Be what you are. This is the first step toward becoming better than you are.**_
 
-Wayne Dyer
+Julius Charles Hare
