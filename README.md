@@ -1,3 +1,3 @@
-_**Be what you are. This is the first step toward becoming better than you are.**_
+_**Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.**_
 
-Julius Charles Hare
+Washington Irving
