@@ -1,3 +1,3 @@
-_**Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.**_
+_**Important principles may, and must, be inflexible.**_
 
-Washington Irving
+Abraham Lincoln
