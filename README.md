@@ -1,3 +1,3 @@
-_**Important principles may, and must, be inflexible.**_
+_**Be slow of tongue and quick of eye.**_
 
-Abraham Lincoln
+Cervantes
