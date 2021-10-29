@@ -1,3 +1,3 @@
-_**Be slow of tongue and quick of eye.**_
+_**Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.**_
 
-Cervantes
+Ralph Emerson
