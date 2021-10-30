@@ -1,3 +1,3 @@
-_**Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.**_
+_**What we achieve inwardly will change outer reality.**_
 
-Ralph Emerson
+Plutarch
