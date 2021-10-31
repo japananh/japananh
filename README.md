@@ -1,3 +1,3 @@
-_**What we achieve inwardly will change outer reality.**_
+_**Bite off more than you can chew, then chew it.**_
 
-Plutarch
+Ella Williams
