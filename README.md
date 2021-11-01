@@ -1,3 +1,3 @@
-_**Bite off more than you can chew, then chew it.**_
+_**We shall never know all the good that a simple smile can do.**_
 
-Ella Williams
+Mother Teresa
