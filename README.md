@@ -1,3 +1,3 @@
-_**We shall never know all the good that a simple smile can do.**_
+_**When your desires are strong enough you will appear to possess superhuman powers to achieve.**_
 
-Mother Teresa
+Napoleon Hill
