@@ -1,3 +1,3 @@
-_**When your desires are strong enough you will appear to possess superhuman powers to achieve.**_
+_**Love and compassion open our own inner life, reducing stress, distrust and loneliness.**_
 
-Napoleon Hill
+Dalai Lama
