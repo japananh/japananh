@@ -1,3 +1,3 @@
-_**Love and compassion open our own inner life, reducing stress, distrust and loneliness.**_
+_**I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.**_
 
-Dalai Lama
+Lao Tzu
