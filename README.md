@@ -1,3 +1,3 @@
-_**We make a living by what we get, but we make a life by what we give.**_
+_**Good actions give strength to ourselves and inspire good actions in others.**_
 
-Winston Churchill
+Plato
