@@ -1,3 +1,3 @@
-_**Good actions give strength to ourselves and inspire good actions in others.**_
+_**Love vanquishes time. To lovers, a moment can be eternity, eternity can be the tick of a clock.**_
 
-Plato
+Mary Parrish
