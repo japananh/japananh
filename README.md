@@ -1,3 +1,3 @@
-_**Love vanquishes time. To lovers, a moment can be eternity, eternity can be the tick of a clock.**_
+_**I am always doing that which I can not do, in order that I may learn how to do it.**_
 
-Mary Parrish
+Pablo Picasso
