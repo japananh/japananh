@@ -1,3 +1,3 @@
-_**I am always doing that which I can not do, in order that I may learn how to do it.**_
+_**Don't think of it as failure. Think of it as time-released success.**_
 
-Pablo Picasso
+Robert Orben
