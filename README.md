@@ -1,3 +1,3 @@
-_**Don't think of it as failure. Think of it as time-released success.**_
+_**Be sure you put your feet in the right place, then stand firm.**_
 
-Robert Orben
+Abraham Lincoln
