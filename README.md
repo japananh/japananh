@@ -1,3 +1,3 @@
-_**Be sure you put your feet in the right place, then stand firm.**_
+_**When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.**_
 
-Abraham Lincoln
+Joseph Campbell
