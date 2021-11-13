@@ -1,3 +1,3 @@
-_**When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.**_
+_**One does not discover new lands without consenting to lose sight of the shore for a very long time.**_
 
-Joseph Campbell
+Andre Gide
