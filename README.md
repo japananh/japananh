@@ -1,3 +1,3 @@
-_**Every great advance in science has issued from a new audacity of the imagination.**_
+_**Fate is in your hands and no one elses**_
 
-John Dewey
+Byron Pulsifer
