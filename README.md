@@ -1,3 +1,3 @@
-_**What you do not want done to yourself, do not do to others.**_
+_**We learn what we have said from those who listen to our speaking.**_
 
-Confucius
+Kenneth Patton
