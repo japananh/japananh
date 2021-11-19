@@ -1,3 +1,3 @@
-_**We learn what we have said from those who listen to our speaking.**_
+_**Nothing could be worse than the fear that one had given up too soon, and left one unexpended effort that might have saved the world.**_
 
-Kenneth Patton
+Jane Addams
