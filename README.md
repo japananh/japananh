@@ -1,3 +1,3 @@
-_**Nothing could be worse than the fear that one had given up too soon, and left one unexpended effort that might have saved the world.**_
+_**Truth is powerful and it prevails.**_
 
-Jane Addams
+Sojourner Truth
