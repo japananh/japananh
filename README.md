@@ -1,3 +1,3 @@
-_**Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands.**_
+_**First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.**_
 
-Anne Frank
+Napoleon Hill
