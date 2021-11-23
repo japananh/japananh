@@ -1,3 +1,3 @@
-_**First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.**_
+_**We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.**_
 
-Napoleon Hill
+Sam Keen
