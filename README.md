@@ -1,3 +1,3 @@
-_**We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.**_
+_**Each day can be one of triumph if you keep up your interests.**_
 
-Sam Keen
+George Matthew Adams
