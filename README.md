@@ -1,3 +1,3 @@
-_**Each day can be one of triumph if you keep up your interests.**_
+_**Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.**_
 
-George Matthew Adams
+Ralph Emerson
