@@ -1,3 +1,3 @@
-_**Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.**_
+_**It is the greatest of all mistakes to do nothing because you can only do little do what you can.**_
 
-Ralph Emerson
+Sydney Smith
