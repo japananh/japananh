@@ -1,3 +1,3 @@
-_**It is the greatest of all mistakes to do nothing because you can only do little do what you can.**_
+_**Don't judge each day by the harvest you reap but by the seeds that you plant.**_
 
-Sydney Smith
+Robert Stevenson
