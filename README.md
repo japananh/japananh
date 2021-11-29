@@ -12,4 +12,8 @@ My name is Nana Tran. I'm a developer, a book enthusiast, and a weightlifter.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Câu chuyện chuyển nhà - Happy New Home](https://nanacoder.hashnode.dev/cau-chuyen-chuyen-nha-happy-new-home)
+- [Bàn về sự học](https://nanacoder.hashnode.dev/ban-ve-su-hoc)
+- [SELECT * in SQL](https://nanacoder.hashnode.dev/select-star-in-sql)
+- [How to run a MySQL server in a Docker container and connect to it from the host machine?](https://nanacoder.hashnode.dev/how-to-run-a-mysql-server-in-a-docker-container-and-connect-to-it-from-the-host-machine)
 <!-- BLOG-POST-LIST:END -->
