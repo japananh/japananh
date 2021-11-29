@@ -1,12 +1,12 @@
 name: main
 
-# Controls when the action will run. 
-on:  
+# Controls when the action will run.
+on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-  - cron: "0 0 * * *"
-  
+    - cron: "0 0 * * *"
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -23,13 +23,17 @@ jobs:
           node-version: 12.16.1
       # Runs a single command using the runners shell
       - run: npm ci
-      - name: Generate quote
-        run: npm run generate
-      - name: Update README.md
-        # Push updated README.md to github
-        run: |
-          git config --global user.email "japananh@gmail.com"
-          git config --global user.name "japananh"
-          git add .
-          git commit -m "Updated README.md" || echo "No change to commit"
-          git push
+      # - name: Generate quote
+      #   run: npm run generate
+      # - name: Update README.md
+      #   # Push updated README.md to github
+      #   run: |
+      #     git config --global user.email "japananh@gmail.com"
+      #     git config --global user.name "japananh"
+      #     git add .
+      #     git commit -m "Updated README.md" || echo "No change to commit"
+      #     git push
+      - name: Pull in hashnode.dev posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://nanacoder.hashnode.dev/rss.xml"
