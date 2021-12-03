@@ -12,9 +12,9 @@ My name is Nana Tran. I'm a developer, a book enthusiast, and a weightlifter.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Go Tools - Part 1](https://nanacoder.hashnode.dev/go-tools-part-1)
 - [Packages in Go - Part 2](https://nanacoder.hashnode.dev/packages-in-go-part-2)
 - [Packages in Go - Part 1](https://nanacoder.hashnode.dev/packages-in-go-part-1)
 - [Câu chuyện chuyển nhà - Happy New Home](https://nanacoder.hashnode.dev/cau-chuyen-chuyen-nha-happy-new-home)
 - [Tôi đọc gì trong năm 2021?](https://nanacoder.hashnode.dev/toi-doc-gi-trong-nam-2021)
-- [Bàn về sự học](https://nanacoder.hashnode.dev/ban-ve-su-hoc)
 <!-- BLOG-POST-LIST:END -->
