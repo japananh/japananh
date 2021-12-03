@@ -1,5 +1,5 @@
 <p align="center">
- <img width="auto" src="https://res.cloudinary.com/japananh/image/upload/v1638180125/Group_1_3_izpqlw.png" align="center" alt="icon" />
+ <img width="auto" src="https://res.cloudinary.com/japananh/image/upload/v1638498299/Group_7_ltvipi.png" align="center" alt="icon" />
 </p>
 
 # About me
