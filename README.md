@@ -4,7 +4,7 @@
 
 # About me
 
-My name is Nana Tran. I'm a developer, a book enthusiast, and a weightlifter.
+Hi, I'm a software developer, a book enthusiast, and a weightlifter. My work mostly focused on web developement using Javascript, Go, and MySQL.
 
 ![Nana's GitHub stats](https://github-readme-stats.vercel.app/api?username=japananh&theme=buefy&show_icons=true)
 
