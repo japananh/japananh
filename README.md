@@ -12,9 +12,9 @@ Hi, I'm a software developer, a book enthusiast, and a weightlifter. My work mos
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vệ sinh răng miệng](https://nanacoder.hashnode.dev/ve-sinh-rang-mieng)
+- [F-Shaped Pattern](https://nanacoder.hashnode.dev/f-shaped-pattern)
+- [Go interview questions and answers](https://nanacoder.hashnode.dev/go-interview-questions-and-answers)
 - [How to solve a coding interview question?](https://nanacoder.hashnode.dev/how-to-solve-a-coding-interview-question)
 - [Bốn chấm không](https://nanacoder.hashnode.dev/bon-cham-khong)
-- [Refactoring - Part 2](https://nanacoder.hashnode.dev/refactoring-part-2)
-- [Refactoring - Part 1](https://nanacoder.hashnode.dev/refactoring-part-1)
-- [Gia vị và thảo mộc &lpar;Spices and herbs&rpar;](https://nanacoder.hashnode.dev/gia-vi-va-thao-moc-spices-and-herbs)
 <!-- BLOG-POST-LIST:END -->
