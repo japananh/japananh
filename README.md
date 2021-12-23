@@ -12,9 +12,9 @@ Hi, I'm a software developer, a book enthusiast, and a weightlifter. My work mos
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chuyên gia tư vấn tình cảm bất đát dĩ](https://nanacoder.hashnode.dev/chuyen-gia-tu-van-tinh-cam-bat-dat-di)
 - [Burnout - Phần 2](https://nanacoder.hashnode.dev/burnout-phan-2)
 - [Burnout - Phần 1](https://nanacoder.hashnode.dev/burnout-phan-1)
+- [Go common mistakes - Part 1](https://nanacoder.hashnode.dev/go-common-mistakes-part-1)
 - [Ruột ơi là ruột](https://nanacoder.hashnode.dev/ruot-oi-la-ruot)
-- [Tôi học vẽ](https://nanacoder.hashnode.dev/toi-hoc-ve)
-- [Vệ sinh răng miệng](https://nanacoder.hashnode.dev/ve-sinh-rang-mieng)
 <!-- BLOG-POST-LIST:END -->
