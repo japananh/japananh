@@ -12,9 +12,9 @@ Hi, I'm a software developer, a book enthusiast, and a weightlifter. My work mos
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Handbook of thinking smart - Marginal Revenue vs Marginal Cost](https://nanacoder.hashnode.dev/handbook-of-thinking-smart-marginal-revenue-vs-marginal-cost)
 - [Generics in Go](https://nanacoder.hashnode.dev/generics-in-go)
 - [Chuyên gia tư vấn tình cảm bất đát dĩ](https://nanacoder.hashnode.dev/chuyen-gia-tu-van-tinh-cam-bat-dat-di)
 - [Burnout - Phần 2](https://nanacoder.hashnode.dev/burnout-phan-2)
 - [Burnout - Phần 1](https://nanacoder.hashnode.dev/burnout-phan-1)
-- [Go common mistakes - Part 1](https://nanacoder.hashnode.dev/go-common-mistakes-part-1)
 <!-- BLOG-POST-LIST:END -->
