@@ -12,9 +12,9 @@ Hi, I'm a software developer, a book enthusiast, and a weightlifter. My work mos
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IELTS Speaking Handbook - Chapter 2 - Understand the exam](https://nanacoder.hashnode.dev/ielts-speaking-handbook-chapter-2-understand-the-exam)
+- [z-index not working?](https://nanacoder.hashnode.dev/z-index-not-working)
 - [Viết blog trên Medium - Phần 2](https://nanacoder.hashnode.dev/viet-blog-tren-medium-phan-2)
 - [Viết blog trên Medium - Phần 1](https://nanacoder.hashnode.dev/viet-blog-tren-medium-phan-1)
 - [Để đọc sách không còn là một thói quen xa vời](https://nanacoder.hashnode.dev/de-doc-sach-khong-con-la-mot-thoi-quen-xa-voi)
-- [Handbook of thinking smart - Marginal Revenue vs Marginal Cost](https://nanacoder.hashnode.dev/handbook-of-thinking-smart-marginal-revenue-vs-marginal-cost)
-- [Generics in Go](https://nanacoder.hashnode.dev/generics-in-go)
 <!-- BLOG-POST-LIST:END -->
