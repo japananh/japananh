@@ -12,9 +12,9 @@ Hi, I'm a software developer, a book enthusiast, and a weightlifter. My work mos
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m feeling so bad](https://nanacoder.hashnode.dev/im-feeling-so-bad)
-- [Who has been an influence on you?](https://nanacoder.hashnode.dev/who-has-been-an-influence-on-you)
-- [Hôm nay bạn có ĐẸP không?](https://nanacoder.hashnode.dev/hom-nay-ban-co-dep-khong)
-- [Khách hàng &quot;khó tính&quot;](https://nanacoder.hashnode.dev/khach-hang-kho-tinh)
-- [Ghi chú về cuốn Swipe To Unlock - Phần 1](https://nanacoder.hashnode.dev/ghi-chu-ve-cuon-swipe-to-unlock-phan-1)
+- [Dọn nhà](https://nanacoder.hashnode.dev/don-nha)
+- [Đầu năm nghe gì? - Phần 2: The Joe Rogan Experience](https://nanacoder.hashnode.dev/dau-nam-nghe-gi-phan-2-the-joe-rogan-experience)
+- [Đầu năm đọc gì? - Phần 4: Đừng bao giờ đi ăn một mình](https://nanacoder.hashnode.dev/dau-nam-doc-gi-phan-4-dung-bao-gio-di-an-mot-minh)
+- [Đầu năm đọc gì? - Phần 3: Staff Engineer&#39;s Path](https://nanacoder.hashnode.dev/dau-nam-doc-gi-phan-3-staff-engineers-path)
+- [Đầu năm đọc gì? - Phần 2: Swipe to unlock](https://nanacoder.hashnode.dev/dau-nam-doc-gi-phan-2-swipe-to-unlock)
 <!-- BLOG-POST-LIST:END -->
