@@ -12,9 +12,9 @@ Hi, I'm a software developer, a book enthusiast, and a weightlifter. My work mos
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tối ưu bộ nhớ cho struct trong Go](https://nanacoder.hashnode.dev/toi-uu-bo-nho-cho-struct-trong-go)
 - [Checklist Mồng 1 Tết](https://nanacoder.hashnode.dev/checklist-mong-1-tet)
 - [Dọn nhà](https://nanacoder.hashnode.dev/don-nha)
 - [Đầu năm nghe gì? - Phần 2: The Joe Rogan Experience](https://nanacoder.hashnode.dev/dau-nam-nghe-gi-phan-2-the-joe-rogan-experience)
 - [Đầu năm đọc gì? - Phần 4: Đừng bao giờ đi ăn một mình](https://nanacoder.hashnode.dev/dau-nam-doc-gi-phan-4-dung-bao-gio-di-an-mot-minh)
-- [Đầu năm đọc gì? - Phần 3: Staff Engineer&#39;s Path](https://nanacoder.hashnode.dev/dau-nam-doc-gi-phan-3-staff-engineers-path)
 <!-- BLOG-POST-LIST:END -->
