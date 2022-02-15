@@ -1,6 +1,9 @@
+<h1 align="center">Hi 👋, I'm Anh Nhat Tran (Nana).</h1>
+
 # About me
 
-Hi, My name is Anh Nhat Tran (Nana). I'm a software engineer, a book enthusiast, and a weightlifter. My work mostly focused on web development using Javascript, Go, and MySQL.
+- I'm a Software Engineer, a book enthusiast, and a weightlifter. 
+- My work mostly focused on web development using **Javascript**, **Go**, and **MySQL**.
 
 ![Nana's GitHub stats](https://github-readme-stats.vercel.app/api?username=japananh&theme=buefy&show_icons=true)
 
@@ -8,7 +11,8 @@ Hi, My name is Anh Nhat Tran (Nana). I'm a software engineer, a book enthusiast,
 
 ![Stackoverflow](https://github-readme-streak-stats.herokuapp.com/?user=japananh&show_icons=true&locale=en)
 
-# Connect with me 📫 :
+# Connect with me 📫
+
 <p align="left">
 <a href="https://linkedin.com/in/japananh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="japananh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8546128/anh-nhat-tran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10866798" height="30" width="40" /></a>
@@ -24,3 +28,7 @@ Hi, My name is Anh Nhat Tran (Nana). I'm a software engineer, a book enthusiast,
 - [Checklist Mồng 1 Tết](https://nanacoder.hashnode.dev/checklist-mong-1-tet)
 - [Dọn nhà](https://nanacoder.hashnode.dev/don-nha)
 <!-- BLOG-POST-LIST:END -->
+
+# Books I'm currently reading
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
