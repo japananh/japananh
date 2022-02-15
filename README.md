@@ -8,6 +8,14 @@ Hi, My name is Anh Nhat Tran (Nana). I'm a software engineer, a book enthusiast,
 
 ![Stackoverflow](https://github-readme-streak-stats.herokuapp.com/?user=japananh&show_icons=true&locale=en)
 
+# Connect with me 📫 :
+<p align="left">
+<a href="https://linkedin.com/in/japananh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="japananh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/story/10866798?view=Cv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10866798" height="30" width="40" /></a>
+<a href="mailto:japananh@gmail.com"><img align="center" src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="nsspathirana@gmail.com" height="40" width="40" /></a>
+<a><img align="right" src="https://komarev.com/ghpvc/?username=japananh&label=Profile%20views&color=0e75b6&style=flat" alt="senpathi" /></a>
+</p>
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Suy nghĩ trên mây - Lữ Na](https://nanacoder.hashnode.dev/suy-nghi-tren-may-lu-na)
