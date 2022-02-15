@@ -10,7 +10,9 @@ Hi, I'm a software engineer, a book enthusiast, and a weightlifter. My work most
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japananh&layout=compact)
 
-<a>&nbsp;<img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=japananh&show_icons=true&locale=en"  alt="senpathi"  height="130"  width="300" /></a>
+![Stackoverflow](https://github-readme-streak-stats.herokuapp.com/?user=japananh&show_icons=true&locale=en)
+
+<a>&nbsp;<img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=japananh&show_icons=true&locale=en"  alt="japananh"  height="130"  width="300" /></a>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
