@@ -9,6 +9,16 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
+  update-readme-with-goodreads-books:
+    name: Update this repo's README with what you're currently reading
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: zwacky/goodreads-profile-workflow@main
+        with:
+          # Replace this with your goodreads user id
+          goodreads_user_id: "70171356"
+          shelf: "currently-reading"
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
