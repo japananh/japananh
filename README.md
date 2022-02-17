@@ -9,7 +9,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japananh&layout=compact)
 
-![Stackoverflow](https://github-readme-streak-stats.herokuapp.com/?user=japananh&show_icons=true&locale=en)
+<b>🔥 Github Streak</b>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=japananh&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # Connect with me 📫
 
