@@ -20,11 +20,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Liệu vẻ bề ngoài có quan trọng?](https://nanacoder.hashnode.dev/lieu-ve-be-ngoai-co-quan-trong)
+- [Công thức tìm người đỡ đầu](https://nanacoder.hashnode.dev/cong-thuc-tim-nguoi-do-dau)
 - [Suy nghĩ trên mây - Lữ Na](https://nanacoder.hashnode.dev/suy-nghi-tren-may-lu-na)
 - [Suy nghĩ trên mây - Hậu linh tinh](https://nanacoder.hashnode.dev/suy-nghi-tren-may-hau-linh-tinh)
 - [[UPDATED] Tối ưu bộ nhớ cho struct trong Go](https://nanacoder.hashnode.dev/updated-toi-uu-bo-nho-cho-struct-trong-go)
-- [Checklist Mồng 1 Tết](https://nanacoder.hashnode.dev/checklist-mong-1-tet)
-- [Dọn nhà](https://nanacoder.hashnode.dev/don-nha)
 <!-- BLOG-POST-LIST:END -->
 
 # Books I'm currently reading
