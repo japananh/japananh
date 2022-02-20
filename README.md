@@ -30,7 +30,7 @@
 # Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/review/show/4099951622?utm_medium=api&utm_source=rss) by Martin Fowler (⭐️4.23)
-- [Swipe to Unlock: The Primer on Technology and Business Strategy](https://www.goodreads.com/review/show/4437086891?utm_medium=api&utm_source=rss) by Parth Detroja (⭐️4.27)
+- [Swipe to Unlock: The Primer on Technology and Business Strategy](https://www.goodreads.com/review/show/4437086891?utm_medium=api&utm_source=rss) by Parth Detroja (⭐️4.26)
 - [Go in Action](https://www.goodreads.com/review/show/4217499065?utm_medium=api&utm_source=rss) by William   Kennedy (⭐️3.85)
 - [How Emotions Are Made: The Secret Life of the Brain](https://www.goodreads.com/review/show/3710904024?utm_medium=api&utm_source=rss) by Lisa Feldman Barrett (⭐️4.21)
 - [The Staff Engineer&apos;s Path](https://www.goodreads.com/review/show/4423254875?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐️5)
