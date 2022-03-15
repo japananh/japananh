@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Anh Nhat Tran (Nana).</h1>
+<h2 align="center">Hi 👋, I'm Anh Nhat Tran (Nana).</h1>
 
 ## About me
 
