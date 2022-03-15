@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anh Nhat Tran (Nana).</h1>
+<h3 align="center">Hi 👋, I'm Anh Nhat Tran (Nana).</h1>
 
-# About me
+## About me
 
 - I'm a Backend Engineer, a Bookworm, and a Weightlifter. 
 - My work mostly focused on web development using **Javascript**, **Go**, and **SQL**.
@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japananh&layout=compact)
 
-# Connect with me 📫
+## Connect with me 📫
 
 <p align="left">
 <a href="https://linkedin.com/in/japananh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="japananh" height="30" width="40" /></a>
@@ -18,7 +18,7 @@
 <a><img align="right" src="https://komarev.com/ghpvc/?username=japananh&label=Profile%20views&color=0e75b6&style=flat" alt="senpathi" /></a>
 </p>
 
-# Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Summary of the book &quot;What is blockchain?&quot;](https://nanacoder.hashnode.dev/summary-of-the-book-what-is-blockchain)
 - [How to grow glutes](https://nanacoder.hashnode.dev/how-to-grow-glutes)
@@ -27,7 +27,7 @@
 - [Công thức tìm người đỡ đầu](https://nanacoder.hashnode.dev/cong-thuc-tim-nguoi-do-dau)
 <!-- BLOG-POST-LIST:END -->
 
-# Books I'm currently reading
+## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/review/show/4099951622?utm_medium=api&utm_source=rss) by Martin Fowler (⭐️4.23)
 - [Go in Action](https://www.goodreads.com/review/show/4217499065?utm_medium=api&utm_source=rss) by William   Kennedy (⭐️3.85)
