@@ -30,6 +30,7 @@
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/review/show/4099951622?utm_medium=api&utm_source=rss) by Martin Fowler (⭐️4.23)
+- [Networking Essentials, Sixth Edition](https://www.goodreads.com/review/show/4624957325?utm_medium=api&utm_source=rss) by Jeffrey Beasley (⭐️4)
 - [Operating Systems: Three Easy Pieces](https://www.goodreads.com/review/show/3744766036?utm_medium=api&utm_source=rss) by Remzi H. Arpaci-Dusseau (⭐️4.72)
 - [Go in Action](https://www.goodreads.com/review/show/4217499065?utm_medium=api&utm_source=rss) by William   Kennedy (⭐️3.86)
 - [How Emotions Are Made: The Secret Life of the Brain](https://www.goodreads.com/review/show/3710904024?utm_medium=api&utm_source=rss) by Lisa Feldman Barrett (⭐️4.21)
