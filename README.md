@@ -31,9 +31,9 @@
 <!-- GOODREADS-LIST:START -->
 - [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/review/show/4099951622?utm_medium=api&utm_source=rss) by Martin Fowler (⭐️4.23)
 - [Networking Essentials, Sixth Edition](https://www.goodreads.com/review/show/4624957325?utm_medium=api&utm_source=rss) by Jeffrey Beasley (⭐️4)
-- [Operating Systems: Three Easy Pieces](https://www.goodreads.com/review/show/3744766036?utm_medium=api&utm_source=rss) by Remzi H. Arpaci-Dusseau (⭐️4.72)
 - [Go in Action](https://www.goodreads.com/review/show/4217499065?utm_medium=api&utm_source=rss) by William   Kennedy (⭐️3.86)
 - [How Emotions Are Made: The Secret Life of the Brain](https://www.goodreads.com/review/show/3710904024?utm_medium=api&utm_source=rss) by Lisa Feldman Barrett (⭐️4.21)
+- [Operating Systems: Three Easy Pieces (Electronic Version 0.8)](https://www.goodreads.com/review/show/3744766036?utm_medium=api&utm_source=rss) by Remzi H. Arpaci-Dusseau (⭐️4)
 - [The Staff Engineer&apos;s Path](https://www.goodreads.com/review/show/4423254875?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐️5)
 - [The Man Who Knew Infinity: A Life of the Genius Ramanujan](https://www.goodreads.com/review/show/4173086726?utm_medium=api&utm_source=rss) by Robert Kanigel (⭐️4.19)
 <!-- GOODREADS-LIST:END -->
