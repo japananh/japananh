@@ -29,7 +29,6 @@
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Networking Essentials, Sixth Edition](https://www.goodreads.com/review/show/4624957325?utm_medium=api&utm_source=rss) by Jeffrey Beasley (⭐️3)
 - [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/review/show/4099951622?utm_medium=api&utm_source=rss) by Martin Fowler (⭐️4.23)
 - [Operating Systems: Three Easy Pieces (Electronic Version 0.8)](https://www.goodreads.com/review/show/3744766036?utm_medium=api&utm_source=rss) by Remzi H. Arpaci-Dusseau (⭐️4)
 - [Think Again: The Power of Knowing What You Don't Know](https://www.goodreads.com/review/show/4630904933?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.37)
