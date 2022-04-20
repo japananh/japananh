@@ -20,11 +20,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tôi và Tô](https://nanacoder.hashnode.dev/toi-va-to)
 - [Summary of the book &quot;What is blockchain?&quot;](https://nanacoder.hashnode.dev/summary-of-the-book-what-is-blockchain)
 - [How to grow glutes](https://nanacoder.hashnode.dev/how-to-grow-glutes)
 - [Viết một cái tool tính tạ](https://nanacoder.hashnode.dev/viet-mot-cai-tool-tinh-ta)
 - [Liệu vẻ bề ngoài có quan trọng?](https://nanacoder.hashnode.dev/lieu-ve-be-ngoai-co-quan-trong)
-- [Công thức tìm người đỡ đầu](https://nanacoder.hashnode.dev/cong-thuc-tim-nguoi-do-dau)
 <!-- BLOG-POST-LIST:END -->
 
 ## Books I'm currently reading
