@@ -3,11 +3,9 @@
 ## About me
 
 - I'm a Backend Engineer, a Bookworm, and a Weightlifter. 
-- My work mostly focused on web development using **Javascript**, **Go**, and **SQL**.
+- My work mostly focused on web development using **Javascript**, **Go**, and **MySQL**.
 
 ![Nana's GitHub stats](https://github-readme-stats.vercel.app/api?username=japananh&theme=buefy&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japananh&layout=compact)
 
 ## Connect with me 📫
 
