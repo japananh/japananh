@@ -28,7 +28,7 @@
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/review/show/4099951622?utm_medium=api&utm_source=rss) by Martin Fowler (⭐️4.23)
-- [Think Again: The Power of Knowing What You Don't Know](https://www.goodreads.com/review/show/4630904933?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.37)
+- [Think Again: The Power of Knowing What You Don't Know](https://www.goodreads.com/review/show/4630904933?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.38)
 - [High Performance MySQL](https://www.goodreads.com/review/show/4668866515?utm_medium=api&utm_source=rss) by Silvia Botros (⭐️4)
 - [Go in Action](https://www.goodreads.com/review/show/4217499065?utm_medium=api&utm_source=rss) by William   Kennedy (⭐️3.86)
 - [How Emotions Are Made: The Secret Life of the Brain](https://www.goodreads.com/review/show/3710904024?utm_medium=api&utm_source=rss) by Lisa Feldman Barrett (⭐️4.22)
