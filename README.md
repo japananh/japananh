@@ -28,11 +28,11 @@
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/review/show/4099951622?utm_medium=api&utm_source=rss) by Martin Fowler (⭐️4.23)
-- [Think Again: The Power of Knowing What You Don't Know](https://www.goodreads.com/review/show/4630904933?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.38)
+- [Think Again: The Power of Knowing What You Don't Know](https://www.goodreads.com/review/show/4630904933?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.37)
 - [High Performance MySQL](https://www.goodreads.com/review/show/4668866515?utm_medium=api&utm_source=rss) by Silvia Botros (⭐️4)
 - [Go in Action](https://www.goodreads.com/review/show/4217499065?utm_medium=api&utm_source=rss) by William   Kennedy (⭐️3.86)
 - [How Emotions Are Made: The Secret Life of the Brain](https://www.goodreads.com/review/show/3710904024?utm_medium=api&utm_source=rss) by Lisa Feldman Barrett (⭐️4.22)
-- [The Staff Engineer&apos;s Path](https://www.goodreads.com/review/show/4423254875?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐️5)
+- [The Staff Engineer&apos;s Path](https://www.goodreads.com/review/show/4423254875?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐️4.8)
 - [The Man Who Knew Infinity: A Life of the Genius Ramanujan](https://www.goodreads.com/review/show/4173086726?utm_medium=api&utm_source=rss) by Robert Kanigel (⭐️4.19)
 - [Matthew Hussey - How to talk to Men:59 Secret Scripts To Melt His Heart, Unlock What He’s Thinking, And Make Him Want To Be With You Forever](https://www.goodreads.com/review/show/4657558222?utm_medium=api&utm_source=rss) by Matthew Hussey (⭐️3.35)
 <!-- GOODREADS-LIST:END -->
