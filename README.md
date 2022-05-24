@@ -18,11 +18,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Một vài lỗi tôi gặp phải với Go và Goland](https://nanacoder.hashnode.dev/mot-vai-loi-toi-gap-phai-voi-go-va-goland)
 - [Lời khuyên cho các bạn chuyển từ các ngành khác qua IT](https://nanacoder.hashnode.dev/loi-khuyen-cho-cac-ban-chuyen-tu-cac-nganh-khac-qua-it)
 - [Chuyện tình cảm](https://nanacoder.hashnode.dev/chuyen-tinh-cam)
 - [Tôi và Tô](https://nanacoder.hashnode.dev/toi-va-to)
 - [Summary of the book &quot;What is blockchain?&quot;](https://nanacoder.hashnode.dev/summary-of-the-book-what-is-blockchain)
-- [How to grow glutes](https://nanacoder.hashnode.dev/how-to-grow-glutes)
 <!-- BLOG-POST-LIST:END -->
 
 ## Books I'm currently reading
