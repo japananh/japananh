@@ -29,7 +29,7 @@
 <!-- GOODREADS-LIST:START -->
 - [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/review/show/4099951622?utm_medium=api&utm_source=rss) by Martin Fowler (⭐️4.23)
 - [Head First Design Patterns](https://www.goodreads.com/review/show/4731418584?utm_medium=api&utm_source=rss) by Eric Freeman (⭐️4.48)
-- [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.goodreads.com/review/show/4730339305?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell McDowell (⭐️4.5)
+- [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.goodreads.com/review/show/4730339305?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell McDowell (⭐️4.49)
 - [Think Again: The Power of Knowing What You Don't Know](https://www.goodreads.com/review/show/4630904933?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.38)
 - [High Performance MySQL](https://www.goodreads.com/review/show/4668866515?utm_medium=api&utm_source=rss) by Silvia Botros (⭐️4)
 - [Go in Action](https://www.goodreads.com/review/show/4217499065?utm_medium=api&utm_source=rss) by William   Kennedy (⭐️3.86)
