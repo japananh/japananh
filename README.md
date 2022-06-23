@@ -35,5 +35,5 @@
 - [Matthew Hussey - How to talk to Men:59 Secret Scripts To Melt His Heart, Unlock What He’s Thinking, And Make Him Want To Be With You Forever](https://www.goodreads.com/review/show/4657558222?utm_medium=api&utm_source=rss) by Matthew Hussey (⭐️3.35)
 - [The Staff Engineer&apos;s Path](https://www.goodreads.com/review/show/4423254875?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐️4.8)
 - [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/review/show/4099951622?utm_medium=api&utm_source=rss) by Martin Fowler (⭐️4.23)
-- [Go in Action](https://www.goodreads.com/review/show/4217499065?utm_medium=api&utm_source=rss) by William   Kennedy (⭐️3.86)
+- [Go in Action](https://www.goodreads.com/review/show/4217499065?utm_medium=api&utm_source=rss) by William   Kennedy (⭐️3.85)
 <!-- GOODREADS-LIST:END -->
