@@ -18,11 +18,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cool tricks with goroutine](https://nanacoder.hashnode.dev/cool-tricks-with-goroutine)
 - [Xanh rồi sao?](https://nanacoder.hashnode.dev/xanh-roi-sao)
 - [Refactoring - Part 3](https://nanacoder.hashnode.dev/refactoring-part-3)
 - [Một vài lỗi tôi gặp phải với Go và Goland](https://nanacoder.hashnode.dev/mot-vai-loi-toi-gap-phai-voi-go-va-goland)
 - [Lời khuyên cho các bạn chuyển từ các ngành khác qua IT](https://nanacoder.hashnode.dev/loi-khuyen-cho-cac-ban-chuyen-tu-cac-nganh-khac-qua-it)
-- [Chuyện tình cảm](https://nanacoder.hashnode.dev/chuyen-tinh-cam)
 <!-- BLOG-POST-LIST:END -->
 
 ## Books I'm currently reading
