@@ -27,7 +27,8 @@
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Khoa Học Về Nấu Ăn](https://www.goodreads.com/review/show/4855925237?utm_medium=api&utm_source=rss) by Stuart Farrimond (⭐️4.08)
+- [Khoa Học Về Nấu Ăn](https://www.goodreads.com/review/show/4855925237?utm_medium=api&utm_source=rss) by Stuart Farrimond (⭐️4.15)
+- [Marie Sến](https://www.goodreads.com/review/show/4878360149?utm_medium=api&utm_source=rss) by Phạm Thị Hoài (⭐️3.59)
 - [HTTP/2 in Action](https://www.goodreads.com/review/show/4782967910?utm_medium=api&utm_source=rss) by Barry Pollard (⭐️4.34)
 - [How Emotions Are Made: The Secret Life of the Brain](https://www.goodreads.com/review/show/3710904024?utm_medium=api&utm_source=rss) by Lisa Feldman Barrett (⭐️4.21)
 - [High Performance MySQL](https://www.goodreads.com/review/show/4668866515?utm_medium=api&utm_source=rss) by Silvia Botros (⭐️4)
@@ -36,5 +37,4 @@
 - [Matthew Hussey - How to talk to Men:59 Secret Scripts To Melt His Heart, Unlock What He’s Thinking, And Make Him Want To Be With You Forever](https://www.goodreads.com/review/show/4657558222?utm_medium=api&utm_source=rss) by Matthew Hussey (⭐️3.47)
 - [The Staff Engineer&apos;s Path](https://www.goodreads.com/review/show/4423254875?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐️4.36)
 - [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/review/show/4099951622?utm_medium=api&utm_source=rss) by Martin Fowler (⭐️4.23)
-- [Go in Action](https://www.goodreads.com/review/show/4217499065?utm_medium=api&utm_source=rss) by William   Kennedy (⭐️3.85)
 <!-- GOODREADS-LIST:END -->
