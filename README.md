@@ -27,14 +27,14 @@
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Khoa Học Về Nấu Ăn](https://www.goodreads.com/review/show/4855925237?utm_medium=api&utm_source=rss) by Stuart Farrimond (⭐️4.15)
+- [Julia Child và cuộc sống ở Pháp](https://www.goodreads.com/review/show/4883306717?utm_medium=api&utm_source=rss) by Julia Child (⭐️5)
 - [Marie Sến](https://www.goodreads.com/review/show/4878360149?utm_medium=api&utm_source=rss) by Phạm Thị Hoài (⭐️3.59)
 - [HTTP/2 in Action](https://www.goodreads.com/review/show/4782967910?utm_medium=api&utm_source=rss) by Barry Pollard (⭐️4.34)
-- [How Emotions Are Made: The Secret Life of the Brain](https://www.goodreads.com/review/show/3710904024?utm_medium=api&utm_source=rss) by Lisa Feldman Barrett (⭐️4.21)
+- [How Emotions Are Made: The Secret Life of the Brain](https://www.goodreads.com/review/show/3710904024?utm_medium=api&utm_source=rss) by Lisa Feldman Barrett (⭐️4.2)
 - [High Performance MySQL](https://www.goodreads.com/review/show/4668866515?utm_medium=api&utm_source=rss) by Silvia Botros (⭐️4)
 - [Head First Design Patterns](https://www.goodreads.com/review/show/4731418584?utm_medium=api&utm_source=rss) by Eric Freeman (⭐️4.48)
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.goodreads.com/review/show/4730339305?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell McDowell (⭐️4.51)
 - [Matthew Hussey - How to talk to Men:59 Secret Scripts To Melt His Heart, Unlock What He’s Thinking, And Make Him Want To Be With You Forever](https://www.goodreads.com/review/show/4657558222?utm_medium=api&utm_source=rss) by Matthew Hussey (⭐️3.47)
-- [The Staff Engineer&apos;s Path](https://www.goodreads.com/review/show/4423254875?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐️4.36)
+- [The Staff Engineer&apos;s Path](https://www.goodreads.com/review/show/4423254875?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐️4.33)
 - [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/review/show/4099951622?utm_medium=api&utm_source=rss) by Martin Fowler (⭐️4.23)
 <!-- GOODREADS-LIST:END -->
