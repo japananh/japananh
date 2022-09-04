@@ -18,11 +18,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Starting Strength](https://nanacoder.hashnode.dev/starting-strength)
 - [Random people make my day](https://nanacoder.hashnode.dev/random-people-make-my-day)
 - [Một ngày chủ nhật đẹp trời](https://nanacoder.hashnode.dev/mot-ngay-chu-nhat-dep-troi)
 - [Năm điều khó nhất](https://nanacoder.hashnode.dev/nam-dieu-kho-nhat)
 - [Tôi học được gì trong 6 tháng đầu năm 2022](https://nanacoder.hashnode.dev/toi-hoc-duoc-gi-trong-6-thang-dau-nam-2022)
-- [Cool tricks with goroutine](https://nanacoder.hashnode.dev/cool-tricks-with-goroutine)
 <!-- BLOG-POST-LIST:END -->
 
 ## Books I'm currently reading
