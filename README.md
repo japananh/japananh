@@ -29,7 +29,7 @@
 <!-- GOODREADS-LIST:START -->
 - [Pro Git](https://www.goodreads.com/review/show/4908207924?utm_medium=api&utm_source=rss) by Scott Chacon (⭐️4.27)
 - [Julia Child và cuộc sống ở Pháp](https://www.goodreads.com/review/show/4883306717?utm_medium=api&utm_source=rss) by Julia Child (⭐️5)
-- [Marie Sến](https://www.goodreads.com/review/show/4878360149?utm_medium=api&utm_source=rss) by Phạm Thị Hoài (⭐️3.59)
+- [Marie Sến](https://www.goodreads.com/review/show/4878360149?utm_medium=api&utm_source=rss) by Phạm Thị Hoài (⭐️3.56)
 - [HTTP/2 in Action](https://www.goodreads.com/review/show/4782967910?utm_medium=api&utm_source=rss) by Barry Pollard (⭐️4.34)
 - [How Emotions Are Made: The Secret Life of the Brain](https://www.goodreads.com/review/show/3710904024?utm_medium=api&utm_source=rss) by Lisa Feldman Barrett (⭐️4.2)
 - [High Performance MySQL](https://www.goodreads.com/review/show/4668866515?utm_medium=api&utm_source=rss) by Silvia Botros (⭐️4)
