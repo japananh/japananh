@@ -35,6 +35,6 @@
 - [High Performance MySQL](https://www.goodreads.com/review/show/4668866515?utm_medium=api&utm_source=rss) by Silvia Botros (⭐️4.2)
 - [Head First Design Patterns](https://www.goodreads.com/review/show/4731418584?utm_medium=api&utm_source=rss) by Eric Freeman (⭐️4.48)
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.goodreads.com/review/show/4730339305?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell McDowell (⭐️4.51)
-- [Matthew Hussey - How to talk to Men:59 Secret Scripts To Melt His Heart, Unlock What He’s Thinking, And Make Him Want To Be With You Forever](https://www.goodreads.com/review/show/4657558222?utm_medium=api&utm_source=rss) by Matthew Hussey (⭐️3.5)
+- [Matthew Hussey - How to talk to Men:59 Secret Scripts To Melt His Heart, Unlock What He’s Thinking, And Make Him Want To Be With You Forever](https://www.goodreads.com/review/show/4657558222?utm_medium=api&utm_source=rss) by Matthew Hussey (⭐️3.52)
 - [The Staff Engineer&apos;s Path](https://www.goodreads.com/review/show/4423254875?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐️4.22)
 <!-- GOODREADS-LIST:END -->
