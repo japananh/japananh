@@ -27,7 +27,7 @@
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Dopamine Nation: Finding Balance in the Age of Indulgence](https://www.goodreads.com/review/show/5009765483?utm_medium=api&utm_source=rss) by Anna Lembke (⭐️3.9)
+- [Dopamine Nation: Finding Balance in the Age of Indulgence](https://www.goodreads.com/review/show/5009765483?utm_medium=api&utm_source=rss) by Anna Lembke (⭐️3.89)
 - [Julia Child và cuộc sống ở Pháp](https://www.goodreads.com/review/show/4883306717?utm_medium=api&utm_source=rss) by Julia Child (⭐️5)
 - [Marie Sến](https://www.goodreads.com/review/show/4878360149?utm_medium=api&utm_source=rss) by Phạm Thị Hoài (⭐️3.56)
 - [HTTP/2 in Action](https://www.goodreads.com/review/show/4782967910?utm_medium=api&utm_source=rss) by Barry Pollard (⭐️4.36)
