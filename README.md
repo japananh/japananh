@@ -32,7 +32,7 @@
 - [Marie Sến](https://www.goodreads.com/review/show/4878360149?utm_medium=api&utm_source=rss) by Phạm Thị Hoài (⭐️3.53)
 - [HTTP/2 in Action](https://www.goodreads.com/review/show/4782967910?utm_medium=api&utm_source=rss) by Barry Pollard (⭐️4.36)
 - [How Emotions Are Made: The Secret Life of the Brain](https://www.goodreads.com/review/show/3710904024?utm_medium=api&utm_source=rss) by Lisa Feldman Barrett (⭐️4.22)
-- [High Performance MySQL](https://www.goodreads.com/review/show/4668866515?utm_medium=api&utm_source=rss) by Silvia Botros (⭐️4.2)
+- [High Performance MySQL](https://www.goodreads.com/review/show/4668866515?utm_medium=api&utm_source=rss) by Silvia Botros (⭐️4.33)
 - [Head First Design Patterns](https://www.goodreads.com/review/show/4731418584?utm_medium=api&utm_source=rss) by Eric Freeman (⭐️4.48)
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.goodreads.com/review/show/4730339305?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell McDowell (⭐️4.5)
 - [Matthew Hussey - How to talk to Men:59 Secret Scripts To Melt His Heart, Unlock What He’s Thinking, And Make Him Want To Be With You Forever](https://www.goodreads.com/review/show/4657558222?utm_medium=api&utm_source=rss) by Matthew Hussey (⭐️3.52)
