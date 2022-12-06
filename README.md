@@ -27,7 +27,6 @@
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [The Muscle & Strength Pyramid - Nutrition](https://www.goodreads.com/review/show/3825975980?utm_medium=api&utm_source=rss) by Eric Helms (⭐️4.57)
 - [Julia Child và cuộc sống ở Pháp](https://www.goodreads.com/review/show/4883306717?utm_medium=api&utm_source=rss) by Julia Child (⭐️4)
 - [Marie Sến](https://www.goodreads.com/review/show/4878360149?utm_medium=api&utm_source=rss) by Phạm Thị Hoài (⭐️3.53)
 - [HTTP/2 in Action](https://www.goodreads.com/review/show/4782967910?utm_medium=api&utm_source=rss) by Barry Pollard (⭐️4.36)
@@ -37,4 +36,5 @@
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.goodreads.com/review/show/4730339305?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell McDowell (⭐️4.44)
 - [Matthew Hussey - How to talk to Men:59 Secret Scripts To Melt His Heart, Unlock What He’s Thinking, And Make Him Want To Be With You Forever](https://www.goodreads.com/review/show/4657558222?utm_medium=api&utm_source=rss) by Matthew Hussey (⭐️3.52)
 - [The Staff Engineer&apos;s Path](https://www.goodreads.com/review/show/4423254875?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐️4.2)
+- [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/review/show/4099951622?utm_medium=api&utm_source=rss) by Martin Fowler (⭐️4.23)
 <!-- GOODREADS-LIST:END -->
