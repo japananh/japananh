@@ -28,10 +28,10 @@
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [The Muscle & Strength Pyramid - Training](https://www.goodreads.com/review/show/3825974801?utm_medium=api&utm_source=rss) by Eric Helms (⭐️4.56)
-- [Julia Child và cuộc sống ở Pháp](https://www.goodreads.com/review/show/4883306717?utm_medium=api&utm_source=rss) by Julia Child (⭐️4)
+- [Julia Child và cuộc sống ở Pháp](https://www.goodreads.com/review/show/4883306717?utm_medium=api&utm_source=rss) by Julia Child (⭐️4.33)
 - [Marie Sến](https://www.goodreads.com/review/show/4878360149?utm_medium=api&utm_source=rss) by Phạm Thị Hoài (⭐️3.53)
 - [HTTP/2 in Action](https://www.goodreads.com/review/show/4782967910?utm_medium=api&utm_source=rss) by Barry Pollard (⭐️4.36)
-- [How Emotions Are Made: The Secret Life of the Brain](https://www.goodreads.com/review/show/3710904024?utm_medium=api&utm_source=rss) by Lisa Feldman Barrett (⭐️4.22)
+- [How Emotions Are Made: The Secret Life of the Brain](https://www.goodreads.com/review/show/3710904024?utm_medium=api&utm_source=rss) by Lisa Feldman Barrett (⭐️4.21)
 - [High Performance MySQL](https://www.goodreads.com/review/show/4668866515?utm_medium=api&utm_source=rss) by Silvia Botros (⭐️4.33)
 - [Head First Design Patterns](https://www.goodreads.com/review/show/4731418584?utm_medium=api&utm_source=rss) by Eric Freeman (⭐️4.48)
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.goodreads.com/review/show/4730339305?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell McDowell (⭐️4.43)
