@@ -21,8 +21,6 @@
 - [Ghi chép ngắn về Huberman Lab Podcast số 88](https://nanacoder.hashnode.dev/ghi-chep-ngan-ve-huberman-lab-podcast-so-88)
 - [Starting Strength](https://nanacoder.hashnode.dev/starting-strength)
 - [Random people make my day](https://nanacoder.hashnode.dev/random-people-make-my-day)
-- [Một ngày chủ nhật đẹp trời](https://nanacoder.hashnode.dev/mot-ngay-chu-nhat-dep-troi)
-- [Năm điều khó nhất](https://nanacoder.hashnode.dev/nam-dieu-kho-nhat)
 <!-- BLOG-POST-LIST:END -->
 
 ## Books I'm currently reading
