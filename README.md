@@ -1,5 +1,3 @@
-<h2 align="center">Hi 👋, I'm Anh Nhat Tran (Nana).</h2>
-
 ## About me
 
 - I'm a Backend Developer, a Blogger, and a Powerlifter. 
