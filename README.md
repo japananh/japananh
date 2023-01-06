@@ -1,9 +1,9 @@
-<h2 align="center">Hi 👋, I'm Anh Nhat Tran (Nana).</h1>
+<h2 align="center">Hi 👋, I'm Anh Nhat Tran (Nana).</h2>
 
 ## About me
 
 - I'm a Backend Developer, a Blogger, and a Powerlifter. 
-- My work mostly focused on web development using **Javascript**, **Go**, and **MySQL**.
+- My work mostly focused on web development using **Go**, **Javascript**, **SQL**, and **AWS**.
 
 ![Nana's GitHub stats](https://github-readme-stats.vercel.app/api?username=japananh&theme=buefy&show_icons=true)
 
