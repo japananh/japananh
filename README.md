@@ -1,6 +1,6 @@
 ### About me
 
-- I'm a Backend Developer, a Blogger, and a Powerlifter. 
+- I'm a **Backend Developer** 👩‍💻, a **Blogger** 📚, and a **Powerlifter** 🏋🏻‍. 
 - My work mostly focused on web development using **Go**, **Javascript**, **SQL**, and **AWS**.
 <!-- 
 ![Nana's GitHub stats](https://github-readme-stats.vercel.app/api?username=japananh&theme=buefy&show_icons=true)
