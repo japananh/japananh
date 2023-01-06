@@ -4,7 +4,7 @@
 
 - I'm a Backend Developer, a Blogger, and a Powerlifter. 
 - My work mostly focused on web development using **Go**, **Javascript**, **SQL**, and **AWS**.
-
+<!-- 
 ![Nana's GitHub stats](https://github-readme-stats.vercel.app/api?username=japananh&theme=buefy&show_icons=true)
 
 ## Connect with me 📫
@@ -14,7 +14,7 @@
 <a href="https://stackoverflow.com/users/8546128/anh-nhat-tran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10866798" height="30" width="40" /></a>
 <a href="mailto:japananh@gmail.com"><img align="center" src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="nsspathirana@gmail.com" height="40" width="40" /></a>
 <a><img align="right" src="https://komarev.com/ghpvc/?username=japananh&label=Profile%20views&color=0e75b6&style=flat" alt="senpathi" /></a>
-</p>
+</p> -->
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
