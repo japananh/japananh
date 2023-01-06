@@ -19,6 +19,7 @@ jobs:
           # Replace this with your goodreads user id
           goodreads_user_id: "70171356"
           shelf: "currently-reading"
+          max_books_count: "3"
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
@@ -47,3 +48,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://nanacoder.hashnode.dev/rss.xml"
+          max_post_count: "3"
