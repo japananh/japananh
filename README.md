@@ -24,6 +24,6 @@
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [The Muscle & Strength Pyramid - Training](https://www.goodreads.com/review/show/3825974801?utm_medium=api&utm_source=rss) by Eric Helms (⭐️4.57)
-- [Julia Child và cuộc sống ở Pháp](https://www.goodreads.com/review/show/4883306717?utm_medium=api&utm_source=rss) by Julia Child (⭐️4.33)
+- [Julia Child và cuộc sống ở Pháp](https://www.goodreads.com/review/show/4883306717?utm_medium=api&utm_source=rss) by Julia Child (⭐️4.25)
 - [Marie Sến](https://www.goodreads.com/review/show/4878360149?utm_medium=api&utm_source=rss) by Phạm Thị Hoài (⭐️3.53)
 <!-- GOODREADS-LIST:END -->
