@@ -23,7 +23,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [The Unicorn Project](https://www.goodreads.com/review/show/5307687326?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.05)
 - [Mastering Go: Create Golang production applications using network libraries, concurrency, and advanced Go data structures](https://www.goodreads.com/review/show/5302937567?utm_medium=api&utm_source=rss) by Mihalis Tsoukalos (⭐️3.78)
 - [The Muscle & Strength Pyramid - Training](https://www.goodreads.com/review/show/3825974801?utm_medium=api&utm_source=rss) by Eric Helms (⭐️4.57)
-- [Julia Child và cuộc sống ở Pháp](https://www.goodreads.com/review/show/4883306717?utm_medium=api&utm_source=rss) by Julia Child (⭐️4.25)
 <!-- GOODREADS-LIST:END -->
