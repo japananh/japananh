@@ -23,7 +23,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [48 Nguyên tắc chủ chốt của quyền lực (The 48 laws of power)](https://www.goodreads.com/review/show/5364724871?utm_medium=api&utm_source=rss) by Robert Greene (⭐️3.96)
 - [The Unicorn Project](https://www.goodreads.com/review/show/5307687326?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.05)
 - [Mastering Go: Create Golang production applications using network libraries, concurrency, and advanced Go data structures](https://www.goodreads.com/review/show/5302937567?utm_medium=api&utm_source=rss) by Mihalis Tsoukalos (⭐️3.78)
-- [The Muscle & Strength Pyramid - Training](https://www.goodreads.com/review/show/3825974801?utm_medium=api&utm_source=rss) by Eric Helms (⭐️4.57)
 <!-- GOODREADS-LIST:END -->
