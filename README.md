@@ -25,5 +25,5 @@
 <!-- GOODREADS-LIST:START -->
 - [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://www.goodreads.com/review/show/5441547197?utm_medium=api&utm_source=rss) by Samin Nosrat (⭐️4.37)
 - [Bullshit Jobs: The Rise of Pointless Work and What We Can Do About It](https://www.goodreads.com/review/show/5408363136?utm_medium=api&utm_source=rss) by David Graeber (⭐️4.05)
-- [Mastering Go: Create Golang production applications using network libraries, concurrency, and advanced Go data structures](https://www.goodreads.com/review/show/5302937567?utm_medium=api&utm_source=rss) by Mihalis Tsoukalos (⭐️3.78)
+- [Mastering Go: Create Golang production applications using network libraries, concurrency, and advanced Go data structures](https://www.goodreads.com/review/show/5302937567?utm_medium=api&utm_source=rss) by Mihalis Tsoukalos (⭐️3.76)
 <!-- GOODREADS-LIST:END -->
