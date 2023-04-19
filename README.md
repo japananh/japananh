@@ -23,7 +23,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Mưu Hèn Kế Bẩn Nơi Công Sở](https://www.goodreads.com/review/show/5408324025?utm_medium=api&utm_source=rss) by Mike Phipps (⭐️2.97)
 - [Real-World Cryptography](https://www.goodreads.com/review/show/5466604862?utm_medium=api&utm_source=rss) by David Wong (⭐️4.62)
 - [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://www.goodreads.com/review/show/5441547197?utm_medium=api&utm_source=rss) by Samin Nosrat (⭐️4.37)
-- [Mastering Go: Create Golang production applications using network libraries, concurrency, and advanced Go data structures](https://www.goodreads.com/review/show/5302937567?utm_medium=api&utm_source=rss) by Mihalis Tsoukalos (⭐️3.76)
 <!-- GOODREADS-LIST:END -->
