@@ -23,7 +23,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Computer and Information Security Handbook](https://www.goodreads.com/review/show/5496012110?utm_medium=api&utm_source=rss) by John R. Vacca (⭐️)
 - [Mưu Hèn Kế Bẩn Nơi Công Sở](https://www.goodreads.com/review/show/5408324025?utm_medium=api&utm_source=rss) by Mike Phipps (⭐️2.97)
 - [Real-World Cryptography](https://www.goodreads.com/review/show/5466604862?utm_medium=api&utm_source=rss) by David Wong (⭐️4.62)
-- [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://www.goodreads.com/review/show/5441547197?utm_medium=api&utm_source=rss) by Samin Nosrat (⭐️4.37)
 <!-- GOODREADS-LIST:END -->
