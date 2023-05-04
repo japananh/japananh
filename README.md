@@ -23,7 +23,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [The 4-Hour Workweek](https://www.goodreads.com/review/show/5408344689?utm_medium=api&utm_source=rss) by Timothy Ferriss (⭐️3.93)
 - [Eight Dates: Essential Conversations for a Lifetime of Love](https://www.goodreads.com/review/show/5517592549?utm_medium=api&utm_source=rss) by John M. Gottman (⭐️4.2)
 - [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/review/show/5307678015?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.23)
-- [Computer and Information Security Handbook](https://www.goodreads.com/review/show/5496012110?utm_medium=api&utm_source=rss) by John R. Vacca (⭐️)
 <!-- GOODREADS-LIST:END -->
