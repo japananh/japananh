@@ -23,7 +23,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [The Four Tendencies: The Indispensable Personality Profiles That Reveal How to Make Your Life Better (and Other People's Lives Better, Too)](https://www.goodreads.com/review/show/5528831801?utm_medium=api&utm_source=rss) by Gretchen Rubin (⭐️4)
+- [Agile Y](https://www.goodreads.com/review/show/4668764746?utm_medium=api&utm_source=rss) by Hien Nguyen (⭐️4.36)
 - [The 4-Hour Workweek](https://www.goodreads.com/review/show/5408344689?utm_medium=api&utm_source=rss) by Timothy Ferriss (⭐️3.93)
 - [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/review/show/5307678015?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.23)
 <!-- GOODREADS-LIST:END -->
