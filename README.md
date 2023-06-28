@@ -23,7 +23,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Stolen Focus: Why You Can't Pay Attention- and How to Think Deeply Again](https://www.goodreads.com/review/show/5223301212?utm_medium=api&utm_source=rss) by Johann Hari (⭐️4.25)
 - [Introduction to Algorithms](https://www.goodreads.com/review/show/5637284005?utm_medium=api&utm_source=rss) by Thomas H. Cormen (⭐️4.35)
-- [Agile Y](https://www.goodreads.com/review/show/4668764746?utm_medium=api&utm_source=rss) by Hien Nguyen (⭐️4.36)
 - [The 4-Hour Workweek](https://www.goodreads.com/review/show/5408344689?utm_medium=api&utm_source=rss) by Timothy Ferriss (⭐️3.93)
 <!-- GOODREADS-LIST:END -->
