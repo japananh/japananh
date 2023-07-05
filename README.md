@@ -23,7 +23,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/review/show/4730339305?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell (⭐️4.42)
+- [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/review/show/4730339305?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell (⭐️4.41)
 - [Stolen Focus: Why You Can't Pay Attention- and How to Think Deeply Again](https://www.goodreads.com/review/show/5223301212?utm_medium=api&utm_source=rss) by Johann Hari (⭐️4.25)
 - [Introduction to Algorithms](https://www.goodreads.com/review/show/5637284005?utm_medium=api&utm_source=rss) by Thomas H. Cormen (⭐️4.34)
 <!-- GOODREADS-LIST:END -->
