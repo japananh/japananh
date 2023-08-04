@@ -23,7 +23,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Stolen Focus: Why You Can't Pay Attention](https://www.goodreads.com/review/show/5223301212?utm_medium=api&utm_source=rss) by Johann Hari (⭐️4.4)
-- [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/review/show/4730339305?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell (⭐️4.39)
-- [Introduction to Algorithms](https://www.goodreads.com/review/show/5637284005?utm_medium=api&utm_source=rss) by Thomas H. Cormen (⭐️4.35)
+- [Mưu hèn kế bẩn nơi công sở](https://www.goodreads.com/review/show/5741161248?utm_medium=api&utm_source=rss) by Alphabooks (⭐️2.5)
+- [Bàn Về Âm Nhạc - Trò Chuyện Cùng Seiji Ozawa](https://www.goodreads.com/review/show/5741147707?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐️3.65)
+- [Writing An Interpreter In Go](https://www.goodreads.com/review/show/5740026374?utm_medium=api&utm_source=rss) by Thorsten Ball (⭐️4.37)
 <!-- GOODREADS-LIST:END -->
