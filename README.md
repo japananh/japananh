@@ -25,5 +25,5 @@
 <!-- GOODREADS-LIST:START -->
 - [Mưu hèn kế bẩn nơi công sở](https://www.goodreads.com/review/show/5741161248?utm_medium=api&utm_source=rss) by Alphabooks (⭐️2.5)
 - [Bàn Về Âm Nhạc - Trò Chuyện Cùng Seiji Ozawa](https://www.goodreads.com/review/show/5741147707?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐️3.65)
-- [Writing An Interpreter In Go](https://www.goodreads.com/review/show/5740026374?utm_medium=api&utm_source=rss) by Thorsten Ball (⭐️4.37)
+- [Writing An Interpreter In Go](https://www.goodreads.com/review/show/5740026374?utm_medium=api&utm_source=rss) by Thorsten Ball (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
