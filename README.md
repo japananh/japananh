@@ -23,7 +23,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.goodreads.com/review/show/5762745750?utm_medium=api&utm_source=rss) by Neha Narkhede (⭐️4.31)
 - [Tư Duy Sâu](https://www.goodreads.com/review/show/5758952349?utm_medium=api&utm_source=rss) by Diệp Tử (⭐️4.18)
 - [Mưu hèn kế bẩn nơi công sở](https://www.goodreads.com/review/show/5741161248?utm_medium=api&utm_source=rss) by Alphabooks (⭐️2.5)
-- [Bàn Về Âm Nhạc - Trò Chuyện Cùng Seiji Ozawa](https://www.goodreads.com/review/show/5741147707?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐️3.65)
 <!-- GOODREADS-LIST:END -->
