@@ -23,7 +23,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://www.goodreads.com/review/show/5441547197?utm_medium=api&utm_source=rss) by Samin Nosrat (⭐️4.37)
 - [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.goodreads.com/review/show/5762745750?utm_medium=api&utm_source=rss) by Neha Narkhede (⭐️4.31)
 - [Tư Duy Sâu](https://www.goodreads.com/review/show/5758952349?utm_medium=api&utm_source=rss) by Diệp Tử (⭐️4.18)
-- [Mưu hèn kế bẩn nơi công sở](https://www.goodreads.com/review/show/5741161248?utm_medium=api&utm_source=rss) by Alphabooks (⭐️2.5)
 <!-- GOODREADS-LIST:END -->
