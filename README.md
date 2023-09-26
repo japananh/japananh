@@ -1,9 +1,9 @@
 ### About me
 
-- I'm a **Backend Developer** 👩‍💻, a **Blogger** 📚, and a **Powerlifter** 🏋🏻‍. 
+- I'm a **Backend Developer** 👩‍💻, a **Blogger** 📚, and a **Powerlifter** 🏋🏻‍.
 - My work mostly focused on building things using **Go**, **Javascript**, **SQL**, and **AWS**.
 <!-- 
-![Nana's GitHub stats](https://github-readme-stats.vercel.app/api?username=japananh&theme=buefy&show_icons=true)
+![Japananh's GitHub stats](https://github-readme-stats.vercel.app/api?username=japananh&theme=buefy&show_icons=true)
 
 ### Connect with me 📫
 
@@ -15,6 +15,11 @@
 </p> -->
 
 ### Blog posts
+
+**New site**: https://thewriteratheart.com
+
+**Old posts at Hashnode:**
+
 <!-- BLOG-POST-LIST:START -->
 - [Ghi chép ngắn về Huberman Lab Podcast số 88](https://nanacoder.hashnode.dev/ghi-chep-ngan-ve-huberman-lab-podcast-so-88)
 - [Starting Strength](https://nanacoder.hashnode.dev/starting-strength)
