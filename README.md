@@ -1,5 +1,6 @@
 ### About me
 
+- My name is Anh Tran (Violet for work).
 - I'm a **Backend Developer** 👩‍💻, a **Blogger** 📚, and a **Powerlifter** 🏋🏻‍.
 - My work mostly focused on building things using **Go**, **Javascript**, **SQL**, and **AWS**.
 <!-- 
