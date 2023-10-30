@@ -31,5 +31,5 @@
 <!-- GOODREADS-LIST:START -->
 - [RabbitMQ in Depth](https://www.goodreads.com/review/show/5792122426?utm_medium=api&utm_source=rss) by Gavin M. Roy (⭐️3.91)
 - [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://www.goodreads.com/review/show/5441547197?utm_medium=api&utm_source=rss) by Samin Nosrat (⭐️4.37)
-- [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.goodreads.com/review/show/5762745750?utm_medium=api&utm_source=rss) by Neha Narkhede (⭐️4.36)
+- [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.goodreads.com/review/show/5762745750?utm_medium=api&utm_source=rss) by Neha Narkhede (⭐️4.4)
 <!-- GOODREADS-LIST:END -->
