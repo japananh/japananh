@@ -29,7 +29,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/6079918241?utm_medium=api&utm_source=rss) by Alex Xu (⭐️4.31)
 - [RabbitMQ in Depth](https://www.goodreads.com/review/show/5792122426?utm_medium=api&utm_source=rss) by Gavin M. Roy (⭐️3.9)
 - [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://www.goodreads.com/review/show/5441547197?utm_medium=api&utm_source=rss) by Samin Nosrat (⭐️4.37)
-- [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.goodreads.com/review/show/5762745750?utm_medium=api&utm_source=rss) by Neha Narkhede (⭐️4.35)
 <!-- GOODREADS-LIST:END -->
