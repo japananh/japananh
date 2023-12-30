@@ -29,7 +29,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Thao túng tâm lý](https://www.goodreads.com/review/show/5408184041?utm_medium=api&utm_source=rss) by Shannon Thomas (⭐️3.62)
 - [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/6079918241?utm_medium=api&utm_source=rss) by Alex Xu (⭐️4.31)
 - [RabbitMQ in Depth](https://www.goodreads.com/review/show/5792122426?utm_medium=api&utm_source=rss) by Gavin M. Roy (⭐️3.9)
-- [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://www.goodreads.com/review/show/5441547197?utm_medium=api&utm_source=rss) by Samin Nosrat (⭐️4.37)
 <!-- GOODREADS-LIST:END -->
