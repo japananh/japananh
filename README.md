@@ -29,7 +29,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/5574789905?utm_medium=api&utm_source=rss) by Mark   Richards (⭐️4.26)
+- [Software Architecture Patterns](https://www.goodreads.com/review/show/6131062823?utm_medium=api&utm_source=rss) by Mark   Richards (⭐️3.65)
 - [Thao túng tâm lý](https://www.goodreads.com/review/show/5408184041?utm_medium=api&utm_source=rss) by Shannon Thomas (⭐️3.62)
-- [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/6079918241?utm_medium=api&utm_source=rss) by Alex Xu (⭐️4.31)
-- [RabbitMQ in Depth](https://www.goodreads.com/review/show/5792122426?utm_medium=api&utm_source=rss) by Gavin M. Roy (⭐️3.9)
 <!-- GOODREADS-LIST:END -->
