@@ -30,6 +30,6 @@
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [Hands-On System Programming with Go: Build modern and concurrent applications for Unix and Linux systems using Golang](https://www.goodreads.com/review/show/6200255441?utm_medium=api&utm_source=rss) by Alex Guerrieri (⭐️3.57)
-- [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/5574789905?utm_medium=api&utm_source=rss) by Mark   Richards (⭐️4.26)
+- [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/5574789905?utm_medium=api&utm_source=rss) by Mark   Richards (⭐️4.27)
 - [Software Architecture Patterns](https://www.goodreads.com/review/show/6131062823?utm_medium=api&utm_source=rss) by Mark   Richards (⭐️3.65)
 <!-- GOODREADS-LIST:END -->
