@@ -29,7 +29,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Concurrency in Go: Tools and Techniques for Developers](https://www.goodreads.com/review/show/6275393245?utm_medium=api&utm_source=rss) by Katherine Cox-Buday (⭐️4.24)
+- [Concurrency in Go: Tools and Techniques for Developers](https://www.goodreads.com/review/show/6275393245?utm_medium=api&utm_source=rss) by Katherine Cox-Buday (⭐️4.23)
 - [Hands-On System Programming with Go: Build modern and concurrent applications for Unix and Linux systems using Golang](https://www.goodreads.com/review/show/6200255441?utm_medium=api&utm_source=rss) by Alex Guerrieri (⭐️3.57)
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/5574789905?utm_medium=api&utm_source=rss) by Mark   Richards (⭐️4.26)
 <!-- GOODREADS-LIST:END -->
