@@ -31,5 +31,5 @@
 <!-- GOODREADS-LIST:START -->
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/5574789905?utm_medium=api&utm_source=rss) by Mark   Richards (⭐️4.26)
 - [Thao túng tâm lý](https://www.goodreads.com/review/show/5408184041?utm_medium=api&utm_source=rss) by Shannon Thomas (⭐️3.61)
-- [Xứ Nevermoor Diệu Kỳ: Morrigan Và Những Thử Thách Gay Cấn](https://www.goodreads.com/review/show/6333964428?utm_medium=api&utm_source=rss) by Jessica Townsend (⭐️4.29)
+- [Xứ Nevermoor Diệu Kỳ: Morrigan Và Những Thử Thách Gay Cấn](https://www.goodreads.com/review/show/6333964428?utm_medium=api&utm_source=rss) by Jessica Townsend (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
