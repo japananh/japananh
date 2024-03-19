@@ -29,7 +29,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [The DevOps Career Handbook: The ultimate guide to pursuing a successful career in DevOps](https://www.goodreads.com/review/show/6353888682?utm_medium=api&utm_source=rss) by John Knight (⭐️3.5)
+- [Xứ Nevermoor Diệu Kỳ: Morrigan Và Lời Triệu Hồi Của Wundersmith (Nevermoor, #2)](https://www.goodreads.com/review/show/6333964663?utm_medium=api&utm_source=rss) by Jessica Townsend (⭐️4.41)
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/5574789905?utm_medium=api&utm_source=rss) by Mark   Richards (⭐️4.26)
-- [Thao túng tâm lý](https://www.goodreads.com/review/show/5408184041?utm_medium=api&utm_source=rss) by Shannon Thomas (⭐️3.61)
-- [Xứ Nevermoor Diệu Kỳ: Morrigan Và Những Thử Thách Gay Cấn](https://www.goodreads.com/review/show/6333964428?utm_medium=api&utm_source=rss) by Jessica Townsend (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
