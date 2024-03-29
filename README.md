@@ -31,5 +31,5 @@
 <!-- GOODREADS-LIST:START -->
 - [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.goodreads.com/review/show/5401058714?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.29)
 - [The DevOps Career Handbook: The ultimate guide to pursuing a successful career in DevOps](https://www.goodreads.com/review/show/6353888682?utm_medium=api&utm_source=rss) by John Knight (⭐️3.5)
-- [Xứ Nevermoor Diệu Kỳ: Morrigan Và Lời Triệu Hồi Của Wundersmith (Nevermoor, #2)](https://www.goodreads.com/review/show/6333964663?utm_medium=api&utm_source=rss) by Jessica Townsend (⭐️4.41)
+- [Xứ Nevermoor Diệu Kỳ: Morrigan Và Lời Triệu Hồi Của Wundersmith (Nevermoor, #2)](https://www.goodreads.com/review/show/6333964663?utm_medium=api&utm_source=rss) by Jessica Townsend (⭐️4.43)
 <!-- GOODREADS-LIST:END -->
