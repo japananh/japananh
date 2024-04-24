@@ -29,7 +29,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [The Language of Emotions: What Your Feelings Are Trying to Tell You: Revised and Updated](https://www.goodreads.com/review/show/6421770446?utm_medium=api&utm_source=rss) by Karla McLaren (⭐️4.21)
+- [The Language of Emotions: What Your Feelings Are Trying to Tell You: Revised and Updated](https://www.goodreads.com/review/show/6421770446?utm_medium=api&utm_source=rss) by Karla McLaren (⭐️4.22)
 - [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.goodreads.com/review/show/5401058714?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.29)
 - [The DevOps Career Handbook: The ultimate guide to pursuing a successful career in DevOps](https://www.goodreads.com/review/show/6353888682?utm_medium=api&utm_source=rss) by John Knight (⭐️3.5)
 <!-- GOODREADS-LIST:END -->
