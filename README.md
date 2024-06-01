@@ -29,7 +29,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Degree in a Book: Philosophy (Everything You Need to Know to Master the Subject ... in One Book!)](https://www.goodreads.com/review/show/6496422471?utm_medium=api&utm_source=rss) by Dr Peter Gibson (⭐️3.8)
+- [Degree in a Book: Philosophy (Everything You Need to Know to Master the Subject ... in One Book!)](https://www.goodreads.com/review/show/6496422471?utm_medium=api&utm_source=rss) by Dr Peter Gibson (⭐️3.82)
 - [The Language of Emotions: What Your Feelings Are Trying to Tell You: Revised and Updated](https://www.goodreads.com/review/show/6421770446?utm_medium=api&utm_source=rss) by Karla McLaren (⭐️4.22)
 - [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.goodreads.com/review/show/5401058714?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.29)
 <!-- GOODREADS-LIST:END -->
