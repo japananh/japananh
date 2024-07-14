@@ -29,7 +29,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Science of Strength Training: Understand the Anatomy and Physiology to Transform Your Body](https://www.goodreads.com/review/show/6666654128?utm_medium=api&utm_source=rss) by Austin Current (⭐️3.76)
+- [Thao túng tâm lý](https://www.goodreads.com/review/show/5408184041?utm_medium=api&utm_source=rss) by Shannon Thomas (⭐️3.56)
 - [Degree in a Book: Philosophy (Everything You Need to Know to Master the Subject ... in One Book!)](https://www.goodreads.com/review/show/6496422471?utm_medium=api&utm_source=rss) by Dr Peter Gibson (⭐️3.82)
-- [The Language of Emotions: What Your Feelings Are Trying to Tell You: Revised and Updated](https://www.goodreads.com/review/show/6421770446?utm_medium=api&utm_source=rss) by Karla McLaren (⭐️4.21)
-- [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.goodreads.com/review/show/5401058714?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.29)
 <!-- GOODREADS-LIST:END -->
