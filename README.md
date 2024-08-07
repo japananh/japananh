@@ -31,5 +31,5 @@
 <!-- GOODREADS-LIST:START -->
 - [Science Of Spice](https://www.goodreads.com/review/show/4864411430?utm_medium=api&utm_source=rss) by Stuart Farrimond (⭐️4.36)
 - [Science of Strength Training: Understand the Anatomy and Physiology to Transform Your Body](https://www.goodreads.com/review/show/6666654128?utm_medium=api&utm_source=rss) by Austin Current (⭐️3.76)
-- [Thao túng tâm lý](https://www.goodreads.com/review/show/5408184041?utm_medium=api&utm_source=rss) by Shannon Thomas (⭐️3.58)
+- [Thao túng tâm lý](https://www.goodreads.com/review/show/5408184041?utm_medium=api&utm_source=rss) by Shannon Thomas (⭐️3.59)
 <!-- GOODREADS-LIST:END -->
