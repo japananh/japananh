@@ -29,7 +29,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [The Skincare Bible: Your No-Nonsense Guide to Great Skin](https://www.goodreads.com/review/show/6887313051?utm_medium=api&utm_source=rss) by Anjali Mahto (⭐️3.81)
 - [Stem Cell Therapy: A Rising Tide: How Stem Cells Are Disrupting Medicine and Transforming Lives](https://www.goodreads.com/review/show/6702782915?utm_medium=api&utm_source=rss) by Neil H. Riordan (⭐️4.52)
 - [Science Of Spice](https://www.goodreads.com/review/show/4864411430?utm_medium=api&utm_source=rss) by Stuart Farrimond (⭐️4.35)
-- [Science of Strength Training: Understand the Anatomy and Physiology to Transform Your Body](https://www.goodreads.com/review/show/6666654128?utm_medium=api&utm_source=rss) by Austin Current (⭐️3.76)
 <!-- GOODREADS-LIST:END -->
