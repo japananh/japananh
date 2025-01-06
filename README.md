@@ -31,5 +31,5 @@
 <!-- GOODREADS-LIST:START -->
 - [Stem Cell Therapy: A Rising Tide: How Stem Cells Are Disrupting Medicine and Transforming Lives](https://www.goodreads.com/review/show/6702782915?utm_medium=api&utm_source=rss) by Neil H. Riordan (⭐️4.51)
 - [Science Of Spice](https://www.goodreads.com/review/show/4864411430?utm_medium=api&utm_source=rss) by Stuart Farrimond (⭐️4.37)
-- [Thao túng tâm lý](https://www.goodreads.com/review/show/5408184041?utm_medium=api&utm_source=rss) by Shannon Thomas (⭐️3.56)
+- [Thao túng tâm lý](https://www.goodreads.com/review/show/5408184041?utm_medium=api&utm_source=rss) by Shannon Thomas (⭐️3.54)
 <!-- GOODREADS-LIST:END -->
