@@ -29,7 +29,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Flow: The Psychology of Optimal Experience](https://www.goodreads.com/review/show/2887809412?utm_medium=api&utm_source=rss) by Mihály Csíkszentmihályi (⭐️4.11)
 - [Software Testing Strategies: A testing guide for the 2020s](https://www.goodreads.com/review/show/7247022735?utm_medium=api&utm_source=rss) by Matt Heusser (⭐️4.33)
 - [Stem Cell Therapy: A Rising Tide: How Stem Cells Are Disrupting Medicine and Transforming Lives](https://www.goodreads.com/review/show/6702782915?utm_medium=api&utm_source=rss) by Neil H. Riordan (⭐️4.5)
-- [Science Of Spice](https://www.goodreads.com/review/show/4864411430?utm_medium=api&utm_source=rss) by Stuart Farrimond (⭐️4.37)
 <!-- GOODREADS-LIST:END -->
