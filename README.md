@@ -29,7 +29,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Flow: The Psychology of Optimal Experience](https://www.goodreads.com/review/show/2887809412?utm_medium=api&utm_source=rss) by Mihály Csíkszentmihályi (⭐️4.11)
+- [Giáo dục STEM/STEAM : từ trải nghiệm thực hành đến tư duy sáng tạo](https://www.goodreads.com/review/show/7408137022?utm_medium=api&utm_source=rss) by Nguyễn Thành Hải (⭐️4.33)
 - [Software Testing Strategies: A testing guide for the 2020s](https://www.goodreads.com/review/show/7247022735?utm_medium=api&utm_source=rss) by Matt Heusser (⭐️4.33)
 - [Stem Cell Therapy: A Rising Tide: How Stem Cells Are Disrupting Medicine and Transforming Lives](https://www.goodreads.com/review/show/6702782915?utm_medium=api&utm_source=rss) by Neil H. Riordan (⭐️4.5)
 <!-- GOODREADS-LIST:END -->
