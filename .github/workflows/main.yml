@@ -1,4 +1,4 @@
-name: main
+name: Latest book list from a goodreads
 
 # Controls when the action will run.
 on:
@@ -16,36 +16,36 @@ jobs:
       - uses: actions/checkout@v2
       - uses: zwacky/goodreads-profile-workflow@main
         with:
-          # Replace this with your goodreads user id
           goodreads_user_id: "70171356"
           shelf: "currently-reading"
           max_books_count: "3"
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+  
+  # # This workflow contains a single job called "build"
+  # build:
+  #   # The type of runner that the job will run on
+  #   runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
-        # Init node environment
-        with:
-          node-version: 12.16.1
-      # Runs a single command using the runners shell
-      - run: npm ci
-      # - name: Generate quote
-      #   run: npm run generate
-      # - name: Update README.md
-      #   # Push updated README.md to github
-      #   run: |
-      #     git config --global user.email "japananh@gmail.com"
-      #     git config --global user.name "japananh"
-      #     git add .
-      #     git commit -m "Updated README.md" || echo "No change to commit"
-      #     git push
-      - name: Pull in hashnode.dev posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://nanacoder.hashnode.dev/rss.xml"
-          max_post_count: "3"
+  #   # Steps represent a sequence of tasks that will be executed as part of the job
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - uses: actions/setup-node@v1
+  #       # Init node environment
+  #       with:
+  #         node-version: 12.16.1
+  #     # Runs a single command using the runners shell
+  #     - run: npm ci
+  #     # - name: Generate quote
+  #     #   run: npm run generate
+  #     # - name: Update README.md
+  #     #   # Push updated README.md to github
+  #     #   run: |
+  #     #     git config --global user.email "japananh@gmail.com"
+  #     #     git config --global user.name "japananh"
+  #     #     git add .
+  #     #     git commit -m "Updated README.md" || echo "No change to commit"
+  #     #     git push
+  #     - name: Pull in hashnode.dev posts
+  #       uses: gautamkrishnar/blog-post-workflow@master
+  #       with:
+  #         feed_list: "https://nanacoder.hashnode.dev/rss.xml"
+  #         max_post_count: "3"
