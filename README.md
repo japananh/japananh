@@ -30,6 +30,6 @@
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [Đường Xưa Mây Trắng](https://www.goodreads.com/review/show/7467223001?utm_medium=api&utm_source=rss) by Thich Nhat Hanh (⭐️4.69)
-- [Ông Trăm Tuổi Tái Xuất Và Giải Cứu Thế Giới](https://www.goodreads.com/review/show/7511398884?utm_medium=api&utm_source=rss) by Jonas Jonasson (⭐️3.93)
+- [Ông Trăm Tuổi Tái Xuất Và Giải Cứu Thế Giới](https://www.goodreads.com/review/show/7511398884?utm_medium=api&utm_source=rss) by Jonas Jonasson (⭐️3.88)
 - [Giáo dục STEM/STEAM : từ trải nghiệm thực hành đến tư duy sáng tạo](https://www.goodreads.com/review/show/7408137022?utm_medium=api&utm_source=rss) by Nguyễn Thành Hải (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
