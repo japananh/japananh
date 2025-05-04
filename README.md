@@ -29,7 +29,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Organic Gardening For Dummies](https://www.goodreads.com/review/show/7538752226?utm_medium=api&utm_source=rss) by Ann Whitman (⭐️3.69)
 - [Đường Xưa Mây Trắng](https://www.goodreads.com/review/show/7467223001?utm_medium=api&utm_source=rss) by Thich Nhat Hanh (⭐️4.69)
 - [Giáo dục STEM/STEAM : từ trải nghiệm thực hành đến tư duy sáng tạo](https://www.goodreads.com/review/show/7408137022?utm_medium=api&utm_source=rss) by Nguyễn Thành Hải (⭐️4.33)
-- [Software Testing Strategies: A testing guide for the 2020s](https://www.goodreads.com/review/show/7247022735?utm_medium=api&utm_source=rss) by Matt Heusser (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
