@@ -29,7 +29,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [The Art of Holding Space: A Practice of Love, Liberation, and Leadership](https://www.goodreads.com/review/show/6910519285?utm_medium=api&utm_source=rss) by Heather Plett (⭐️4.2)
+- [The Art of Holding Space: A Practice of Love, Liberation, and Leadership](https://www.goodreads.com/review/show/6910519285?utm_medium=api&utm_source=rss) by Heather Plett (⭐️4.21)
 - [Organic Gardening For Dummies](https://www.goodreads.com/review/show/7538752226?utm_medium=api&utm_source=rss) by Ann Whitman (⭐️3.7)
 - [Giáo dục STEM/STEAM : từ trải nghiệm thực hành đến tư duy sáng tạo](https://www.goodreads.com/review/show/7408137022?utm_medium=api&utm_source=rss) by Nguyễn Thành Hải (⭐️4.38)
 <!-- GOODREADS-LIST:END -->
