@@ -1,7 +1,7 @@
 ### About me
 
 - My name is Anh Tran (Violet for work).
-- I'm a **Backend Developer** 👩‍💻, a **Blogger** 📚, and a **Powerlifter** 🏋🏻‍.
+- I'm a **Backend Developer** 👩‍💻.
 - My work mostly focused on building things using **Go**, **Javascript**, **SQL**, and **AWS**.
 <!-- 
 ![Japananh's GitHub stats](https://github-readme-stats.vercel.app/api?username=japananh&theme=buefy&show_icons=true)
